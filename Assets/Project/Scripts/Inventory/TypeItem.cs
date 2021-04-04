@@ -1,0 +1,8 @@
+﻿public enum TypeItem
+{
+	UNLOCKED,
+	UNJAMMED,
+	DEFAULT,
+	TOOL_SCREWDRIVER,
+	REMOTE_CONTROLLER
+}

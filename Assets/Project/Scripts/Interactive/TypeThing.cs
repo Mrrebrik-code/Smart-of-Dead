@@ -1,0 +1,9 @@
+﻿public enum TypeThing
+{
+	TAKED,
+	INSPECTED,
+	GRABBING,
+	UNSCREWDRIVER,
+	LOCKED,
+	INTERACT
+}
