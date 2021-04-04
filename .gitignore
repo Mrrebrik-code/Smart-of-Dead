@@ -9,6 +9,10 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/Asset/Project/Models/
+/Asset/Project/Sounds/
+/Asset/Project/Videos/
+/Asset/Project/Materials//
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
